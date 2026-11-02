@@ -1,35 +1,63 @@
 # 👋 Hi, I'm Anurag Sharma (@Anurag25021)
 
-> **Pre-final / Final Year Engineering Student | Aspiring Software Development Engineer (SDE)**  
-> *Full-Stack Developer & Problem Solver at NIT Patna*
+
+
+> **Integrated Dual Degree (B.Tech + M.Tech) Student in Electronics & Communication Engineering**
+
+> *Specializing in Microelectronics & VLSI Design at NIT Patna*
+
+
 
 ---
 
-### 💻 About Me
 
-- 💻 **I’m interested in:** Full-Stack Web Development, Scalable Backend Architectures, and Algorithmic Problem Solving.
-- 🌱 **I’m currently exploring:** High-concurrency systems, microservices architecture, and clean RESTful API design.
-- 💞️ **I’m looking to collaborate on:** Open-source web applications, full-stack tools (MERN), and developer utility projects.
-- 📫 **How to reach me:** [anuragsharma251001@gmail.com](mailto:anuragsharma251001@gmail.com)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I bridge low-level computing fundamentals with modern web frameworks — turning algorithmic problem solving into scalable, production-grade applications!
+
+### 🔬 About Me
+
+
+
+💻 **I’m interested in:** RTL Design, Digital & Analog VLSI, TCAD Device Modeling, and Low-Power Semiconductor Architectures.
+🌱 **I’m currently exploring:** Double-Gate Tunnel FETs (DL-TFETs), adiabatic logic design, and hardware acceleration in SystemVerilog & Cadence Virtuoso.
+💞️ **I’m looking to collaborate on:** Open-source Verilog/SystemVerilog hardware acceleration projects, EDA tool integrations, and low-power circuit simulations.
+📫 **How to reach me:** [anuragsharma251001@gmail.com](mailto:anuragsharma251001@gmail.com)
+😄 **Pronouns:** He/Him
+⚡ **Fun fact:** I work across both extreme ends of tech — from tweaking semiconductor physics at the nanometer scale in TCAD to building full-stack web apps in MERN!
+
 
 ---
 
-### 🛠️ Tech Stack & Developer Tools
+
+
+### 🛠️ Tech Stack & EDA Tools
+
+
 
 | Category | Technologies & Tools |
+
 | :--- | :--- |
-| **Languages** | C++, JavaScript (ES6+), Python, Java, SQL, TypeScript |
-| **Backend & APIs** | Node.js, Express.js, RESTful APIs, WebSockets (Socket.io), JWT Authentication |
-| **Frontend Development** | React.js, Redux, HTML5, CSS3, Tailwind CSS, Vite |
-| **Databases & Storage** | MongoDB, MySQL, Mongoose, Relational Database Modeling |
-| **Tools & Platforms** | Git, GitHub, Linux / Bash, Postman, VS Code, NPM |
-| **Core CS Fundamentals** | Data Structures & Algorithms, Object-Oriented Programming (OOP), OS, DBMS, Computer Networks |
+
+| **EDA & Simulation** | Cadence Virtuoso, Xilinx Vivado, ModelSim, LTspice, Silvaco TCAD (ATLAS, DeckBuild, TonyPlot) |
+
+| **Hardware Description** | Verilog HDL, SystemVerilog |
+
+| **Software & Scripting** | C++, Java, Python, SQL, JavaScript |
+
+| **Web & Frameworks** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS |
+
+| **Workflow & Certs** | Git, GitHub, LaTeX, LeetCode |
+
+
 
 ---
+
+
 
 ### 📊 GitHub Stats
 
+
+
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag25021&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag25021&layout=compact&theme=radical)
+
+make it alligned with software development role 
